@@ -1,0 +1,7 @@
+/* .task-list > *{
+    display: inline-block;
+} */
+.task-list {
+    display: flex;
+   justify-content: space-around;
+}
